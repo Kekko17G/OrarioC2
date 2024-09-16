@@ -34,7 +34,6 @@
             </table> 
         </b>
     </div>
-
     <div id="tabella">
         <h1>Venerdì</h1>
         <b>
